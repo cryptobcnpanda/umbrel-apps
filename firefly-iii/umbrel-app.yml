@@ -45,6 +45,6 @@ path: ""
 deterministicPassword: false
 torOnly: false
 releaseNotes: >-
-  This release updates Firefly III from version 6.0.30 to 6.1.6. Full release notes can be found here: https://github.com/firefly-iii/firefly-iii/releases
+  This release updates Firefly III from version 6.1.6 to 6.1.7. Full release notes can be found here: https://github.com/firefly-iii/firefly-iii/releases
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-apps/pull/378
